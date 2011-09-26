@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadsTest", "ThreadsTest\ThreadsTest.csproj", "{3157AEB3-9C93-4120-8569-F85C78F2A0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Release|iPhone.Build.0 = Release|iPhone
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3157AEB3-9C93-4120-8569-F85C78F2A0FA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ThreadsTest\ThreadsTest.csproj
+	EndGlobalSection
+EndGlobal
